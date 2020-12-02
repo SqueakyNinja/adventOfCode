@@ -31,7 +31,7 @@ function searchPassword(array) {
   }
   console.log(passwordArray.length);
 }
-// searchPassword(array);
+searchPassword(array);
 
 // part 2
 function searchPasswordByLocation(array) {
