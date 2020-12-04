@@ -44,6 +44,7 @@ for (let i = 0; i < array.length; i++) {
       /pid:[0-9]{9}\b/.test(element[7])
     ) {
       newArray.push(element);
+
       // console.log(element[eachRow]);
     }
   }
